@@ -1,2 +1,1 @@
-Spring MVC + Hibernate + CRUD Operations
-Using MYSQL
+Spring MVC + Hibernate + CRUD Operations (MYSQL)
